@@ -1,0 +1,85 @@
+/*==========
+    box居中
+  ==========*/
+.lest{
+	width: 1200px;
+	height: 714px;
+	position: relative;
+	background: #fff;
+	
+}
+
+
+
+
+
+
+.box1,.box2,.box3,.box4,.box5,.box7,.box6,.box8,.box9{
+	width: 426px;
+	height: 235px;
+	float: left;
+	margin: 0 15px 15px 0;
+	overflow: hidden;
+	position: absolute;	
+}
+.box1{
+	top: 0px;
+	left: -2px;
+}
+.box2{
+	top: 1px;
+	left: 358px;
+}
+.box3{
+	top: 1px;
+	left: 775px;
+}
+
+.box4{
+	top: 244px;
+	left: -1px;
+}
+.box5{
+	top: 242px;
+	left: 359px;
+}
+.box6{
+	top: 242px;
+	left: 773px;
+}
+.box7{
+	top: 486px;
+	left: 0;
+}
+.box8{
+	top: 486px;
+	left: 405px;
+}
+.box9{
+	top: 489px;
+	left: 776px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.lest .box1 img,.box2 img,.box3 img,.box4 img,.box5 img,.box7 img,.box6 img,.box8 img,.box9 img{
+	width: 100%;
+}*/
